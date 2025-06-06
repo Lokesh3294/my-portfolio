@@ -11,7 +11,7 @@ export default function Contact() {
       <main className="px-4 sm:px-6 lg:px-8 py-8 max-w-2xl mx-auto flex-grow">
         <h1 className="text-3xl sm:text-4xl font-bold mb-4 text-center">Get in Touch</h1>
         <p className="text-center text-gray-600 mb-10">
-          Whether you want to discuss a project, collaborate on an idea, or just say hello — feel free to reach out!
+          Whether you want to discuss a project, collaborate on an idea, or just say hello &mdash; feel free to reach out!
         </p>
         <div className="space-y-4">
           <a
@@ -27,7 +27,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex items-center gap-3 p-4 border rounded-md hover:bg-gray-50 transition"
           >
-            <Github className="text-gray-800 dark:text-gray-300"/>
+            <Github className="text-black" />
             <span className="text-gray-800">@Lokesh3294</span>
           </a>
           <a

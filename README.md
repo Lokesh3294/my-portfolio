@@ -1,40 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Lokesh N - Portfolio Website
 
-## Getting Started
+This is my personal developer portfolio built using **Next.js** and **TailwindCSS**. It showcases who I am, what I do, and the work I've done so far.
 
-First, run the development server:
+## 🌐 Live Site
+[https://lokidev.vercel.app](https://lokidev.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Tech Stack
+- Next.js
+- Tailwind CSS
+- TypeScript (optional)
+- Deployed on Vercel
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 📁 Pages
+- **Home** – Intro and personal snapshot
+- **Resume** – Education, experience, skills
+- **Projects** – A few things I've built
+- **Contact** – Ways to reach out
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Features
+- Responsive design for all screen sizes
+- Dark mode compatible
+- Mobile slide-in menu
+- Optimized for speed and accessibility
+- Deployed with a custom subdomain
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📷 Screenshot
+![Portfolio Screenshot](public/screenshot.jpg) <!-- Add a real screenshot if available -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📫 Contact
+If you want to connect, reach me at:
+- Email: llokesh26204@gmail.com
+- GitHub: [@Lokesh3294](https://github.com/Lokesh3294)
+- LinkedIn: [lokesh-naidu001](https://www.linkedin.com/in/lokesh-naidu001)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+## 📝 License
+This project is open for inspiration and learning. If you use it, give credit where due.

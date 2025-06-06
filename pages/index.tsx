@@ -12,11 +12,11 @@ export default function Home() {
       <Header />
       <main className="px-4 sm:px-6 lg:px-8 py-8 max-w-4xl mx-auto flex-grow flex flex-col items-center text-center">
         <Image
-          src="/profile.jpg"
+          src="/moon.jpg"
           alt="Lokesh N"
           width={140}
           height={140}
-          className="rounded-full shadow-md mb-4"
+          className="rounded-full h-40 w-40 shadow-md mb-4"
         />
         <h1 className="text-3xl sm:text-4xl font-bold mb-2">Hi, I&apos;m Lokesh 👋</h1>
         <p className="text-md sm:text-lg font-medium text-gray-700 mb-4">Associate Software Developer @ Unifytech</p>

@@ -1,3 +1,5 @@
+// --- pages/contact.tsx ---
+
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import { Mail, Github, Linkedin } from 'lucide-react';
@@ -9,7 +11,7 @@ export default function Contact() {
       <main className="px-4 sm:px-6 lg:px-8 py-8 max-w-2xl mx-auto flex-grow">
         <h1 className="text-3xl sm:text-4xl font-bold mb-4 text-center">Get in Touch</h1>
         <p className="text-center text-gray-600 mb-10">
-          Whether you want to discuss a project, collaborate on an idea, or just say hello — feel free to reach out!
+          Whether you want to discuss a project, collaborate on an idea, or just say hello &mdash; feel free to reach out!
         </p>
         <div className="space-y-4">
           <a

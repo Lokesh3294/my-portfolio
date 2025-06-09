@@ -1,5 +1,6 @@
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { title } from 'process';
 
 const projects = [
   {
@@ -12,6 +13,12 @@ const projects = [
     description: 'A pixel-perfect responsive clone of the Amazon website using HTML, CSS, and Bootstrap. Fast loading times and clean UI.',
     tech: ['HTML', 'CSS', 'Bootstrap'],
   },
+  {
+    title: 'Matrimony website',
+     description:
+      "A static UI design for a matrimony web application, developed using Next.js and Material UI. Focused on layout structure, form elements, and visual components without responsive behavior.",
+    tech: ["Next.js", "Material UI"],
+  }
 ];
 
 export default function Projects() {

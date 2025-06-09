@@ -27,7 +27,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="flex items-center gap-3 p-4 border rounded-md hover:bg-gray-50 transition"
           >
-            <Github className="text-black" />
+            <Github className="w-6 h-6 text-black dark:text-white" />
             <span className="text-gray-800">@Lokesh3294</span>
           </a>
           <a

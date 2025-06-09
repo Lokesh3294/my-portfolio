@@ -1,6 +1,6 @@
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { title } from 'process';
+// import { title } from 'process';
 
 const projects = [
   {

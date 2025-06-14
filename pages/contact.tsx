@@ -19,7 +19,7 @@ export default function Contact() {
             className="flex items-center gap-3 p-4 border rounded-md hover:bg-gray-50 transition"
           >
             <Mail className="text-blue-600" />
-            <span className="text-gray-800">llokesh26204@gmail.com</span>
+            <span className="text-gray-800">Email</span>
           </a>
           <a
             href="https://github.com/Lokesh3294"
@@ -28,16 +28,16 @@ export default function Contact() {
             className="flex items-center gap-3 p-4 border rounded-md hover:bg-gray-50 transition"
           >
             <Github className="w-6 h-6 text-black dark:text-white" />
-            <span className="text-gray-800">@Lokesh3294</span>
+            <span className="text-gray-800">Github</span>
           </a>
           <a
-            href="https://www.linkedin.com/in/lokesh-naidu001"
+            href="https://www.linkedin.com/in/lokesh-naidu01/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 p-4 border rounded-md hover:bg-gray-50 transition"
           >
             <Linkedin className="text-blue-700" />
-            <span className="text-gray-800">lokesh-naidu001</span>
+            <span className="text-gray-800">LinkedIn</span>
           </a>
         </div>
       </main>

@@ -24,5 +24,9 @@
     "eslint-config-next": "15.3.3",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "This is my personal developer portfolio built using **Next.js** and **TailwindCSS**. It showcases who I am, what I do, and the work I've done so far.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

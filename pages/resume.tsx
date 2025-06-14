@@ -16,11 +16,11 @@ export default function Resume() {
           </div>
           <div className="border-l-4 border-blue-600 pl-4 ml-1">
             <p className="font-bold">Associate Software Developer @ Unifytech</p>
-            <p className="text-sm text-gray-600 mb-4">June 2025 – Present</p>
+            <p className="text-sm dark:text-gray-400 mb-4">June 2025 – Present</p>
 
             <p className="font-bold">Full Stack Web Developer Intern @ Awetecks</p>
-            <p className="text-sm text-gray-600">May 2024 – July 2024</p>
-            <ul className="list-disc pl-5 text-gray-700">
+            <p className="text-sm dark:text-gray-400">May 2024 – July 2024</p>
+            <ul className="list-disc pl-5 dark:text-gray-400">
               <li>Frontend: React.js, TailwindCSS</li>
               <li>Backend: Node.js, Express.js, PHP</li>
               <li>Databases: MySQL, MongoDB</li>
@@ -37,7 +37,7 @@ export default function Resume() {
             <GraduationCap className="text-green-600" />
             <h2 className="text-2xl font-semibold">Education</h2>
           </div>
-          <div className="pl-4 ml-1 text-gray-700">
+          <div className="pl-4 ml-1 dark:text-gray-400">
             <p className="font-bold">B.Tech in AI & ML, Andhra Engineering College</p>
             <p className="text-sm mb-2">CGPA: 7.5</p>
             <p className="font-bold">XII (State Board), C.S.I Kellet Hr. Sec. School, Chennai</p>
@@ -51,7 +51,7 @@ export default function Resume() {
             <Wrench className="text-purple-600" />
             <h2 className="text-2xl font-semibold">Skills</h2>
           </div>
-          <div className="grid grid-cols-2 gap-4 pl-4 ml-1 text-gray-700">
+          <div className="grid grid-cols-2 gap-4 pl-4 ml-1 dark:text-gray-400">
             <div>
               <p className="font-medium">Languages:</p>
               <p>JavaScript, Python, PHP, HTML, CSS</p>
@@ -78,7 +78,7 @@ export default function Resume() {
             <Award className="text-yellow-600" />
             <h2 className="text-2xl font-semibold">Certifications</h2>
           </div>
-          <ul className="list-disc pl-6 text-gray-700">
+          <ul className="list-disc pl-6 dark:text-gray-400">
             <li>Generative AI by Microsoft and LinkedIn</li>
             <li>Introduction to Cloud Essentials by Oracle</li>
             <li>Cloud Security Essentials by AWS</li>

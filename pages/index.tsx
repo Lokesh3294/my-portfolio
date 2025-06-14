@@ -19,8 +19,8 @@ export default function Home() {
           className="rounded-full h-40 w-40 shadow-md mb-4"
         />
         <h1 className="text-3xl sm:text-4xl font-bold mb-2">Hi, I&apos;m Lokesh 👋</h1>
-        <p className="text-md sm:text-lg font-medium text-gray-700 mb-4">Associate Software Developer @ Unifytech</p>
-        <p className="max-w-xl text-sm sm:text-base text-gray-600">
+        <p className="text-md sm:text-lg font-medium text-gray-800 dark:text-gray-400">Associate Software Developer @ Unifytech</p>
+        <p className="max-w-xl text-sm sm:text-base text-gray-800 dark:text-gray-400">
           I&apos;m a curious and creative software developer who loves building things with code. Outside of work, you&apos;ll find me diving into personal growth books, writing thoughts that sometimes make sense, and pushing myself at the gym (mostly pushing to get there 😅).
           <br /><br />
           I&apos;m fascinated by tech, mindfulness, finance, and turning coffee into code. If you&apos;re into clean code, deep conversations, or terrible puns — we&apos;ll get along just fine.

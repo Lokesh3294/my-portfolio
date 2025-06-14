@@ -31,7 +31,7 @@ export default function Projects() {
           {projects.map((project, index) => (
             <div key={index} className="border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md transition">
               <h2 className="text-xl font-semibold mb-2">{project.title}</h2>
-              <p className="text-sm text-gray-600 mb-3">{project.description}</p>
+              <p className="text-sm dark:text-gray-400 mb-3">{project.description}</p>
               <div className="flex flex-wrap gap-2">
                 {project.tech.map((tech, i) => (
                   <span
